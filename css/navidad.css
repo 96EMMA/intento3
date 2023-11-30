@@ -1,0 +1,52 @@
+h1{
+  font-size: 39px;  
+  text-align: letf; 
+  padding-bottom: 20px; 
+  color: red;
+}
+
+body
+{
+	background:PINK ;
+}
+
+ul
+{
+list-style-type: circle;,
+list-style-position: incide,
+}
+
+ol
+{
+	list-style-type: decimal-leading-zero;
+}
+
+img
+{
+	width: 300px;
+	height: auto;
+	border-radius: 50%;
+	border-color: yellow;
+	box-shadow: 5px 5px 15px #ccc;
+}
+
+table
+{
+ border:1px solid #000; 
+ border-collapse:collapse;
+ }
+table td
+{
+border:1px solid ;
+padding:20px;
+}
+
+table tr:hover
+{
+background:#ccc;
+}
+table td:hover
+{
+background:#FFF900 ;
+color:red;
+}
